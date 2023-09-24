@@ -1,2 +1,4 @@
-Oi Teste
+Oi Teste 
+
+Nova linha local novo usuario
 Novo testeTestando o Merge
